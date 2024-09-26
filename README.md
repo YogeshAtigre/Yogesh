@@ -1,2 +1,1 @@
-# Yogesh
-# Git hub repo for yogesh's
+Solution provided for Bash Assignment questions 1 to 10 
