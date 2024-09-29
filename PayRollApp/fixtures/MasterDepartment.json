@@ -1,0 +1,50 @@
+[
+    {
+        "model": "PayRollApp.Department",
+        "pk": 1,
+        "fields": {
+          "DeptName": "HR",
+          "Location": "West"
+        }
+    },
+    {
+        "model": "PayRollApp.Department",
+        "pk": 2,
+        "fields": {
+          "DeptName": "Sales",
+          "Location": "West"
+        }
+    },
+    {
+        "model": "PayRollApp.Department",
+        "pk": 3,
+        "fields": {
+          "DeptName": "Finance",
+          "Location": "West"
+        }
+    },
+    {
+        "model": "PayRollApp.Department",
+        "pk": 4,
+        "fields": {
+          "DeptName": "Billing",
+          "Location": "East"
+        }
+    },
+    {
+        "model": "PayRollApp.Department",
+        "pk": 5,
+        "fields": {
+          "DeptName": "Admin",
+          "Location": "East"
+        }
+    },
+    {
+        "model": "PayRollApp.Department",
+        "pk": 6,
+        "fields": {
+          "DeptName": "Networking",
+          "Location": "East"
+        }
+    }
+]
